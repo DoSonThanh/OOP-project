@@ -1,5 +1,6 @@
-Project Mananger
-Do Son Thanh
-Nguyen Minh Thuc
-Nguyen Tuan Khoi 
-Le Trung Phong
+Xây dựng Chương trình quản lý công việc nhóm (kiểu project management) 
+
+Đỗ Sơn Thành
+Nguyễn Tuấn Khôi
+Lê Trung Phong
+Nguyễn Minh Thức
