@@ -1,4 +1,4 @@
-interface IPorjectService
+interface IProjectService
 {
     public void CreateProject(ProjectBuilder builder);
     public void UpdateProject();
