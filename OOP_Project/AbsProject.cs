@@ -9,7 +9,7 @@ public abstract class AbsProject
     public string description { get; set; }
     public EnumStatus status { get; set; }
 
-    protected AbsProject(string projectId, string projectName)
+    public AbsProject(string projectId, string projectName)
     {
         this.projectId = projectId;
         this.projectName = projectName;
