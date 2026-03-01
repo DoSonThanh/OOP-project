@@ -1,6 +1,4 @@
- 
-
-public enum EnumStatus
+ public enum EnumStatus
 {
     Pending,
     Completed,
