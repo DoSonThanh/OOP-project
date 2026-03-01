@@ -1,0 +1,15 @@
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.exe
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.deps.json
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.dll
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.pdb
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.sourcelink.json
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.dll
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\refint\MyConsoleApp.dll
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.pdb
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\ref\MyConsoleApp.dll
