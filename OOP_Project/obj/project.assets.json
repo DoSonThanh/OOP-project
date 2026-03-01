@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Đỗ Sơn Thành\\Project\\OOP_Project\\OOP-project\\OOP_Project\\MyConsoleApp.csproj",
+      "projectUniqueName": "C:\\C#\\OOP-project\\OOP_Project\\MyConsoleApp.csproj",
       "projectName": "MyConsoleApp",
-      "projectPath": "G:\\Đỗ Sơn Thành\\Project\\OOP_Project\\OOP-project\\OOP_Project\\MyConsoleApp.csproj",
+      "projectPath": "C:\\C#\\OOP-project\\OOP_Project\\MyConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Huy Vu\\.nuget\\packages\\",
-      "outputPath": "G:\\Đỗ Sơn Thành\\Project\\OOP_Project\\OOP-project\\OOP_Project\\obj\\",
+      "outputPath": "C:\\C#\\OOP-project\\OOP_Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huy Vu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.309/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
