@@ -13,7 +13,7 @@ public class Project
     public string Description {get; set;}
 
     public EnumStatus Status {get; set;}
-
+    public EmumProjectType ProjectType {get; set;}
     List<Employee> List_employees {get; set;}
 
 }
