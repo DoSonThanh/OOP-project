@@ -16,6 +16,6 @@ public class Employee : AbsPerson
 
     public override string ToString()
     {
-        return "ID: " + this.id + ", Name: " + this.name + ", Role: " + this.role + ", Position: " + this.position;
+        return $"{base.ToString()}, Role: " + {role} + ", Position: " + {position};
     }
 }

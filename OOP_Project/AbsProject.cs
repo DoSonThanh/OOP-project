@@ -14,4 +14,8 @@ public abstract class AbsProject
         this.projectId = projectId;
         this.projectName = projectName;
     }
+    public override string ToString()
+    {
+        return $"Project: {ProjectName} (ID: {ProjectId}) - Status: {Status}";
+    }
 }

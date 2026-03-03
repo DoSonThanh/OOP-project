@@ -12,4 +12,8 @@ public abstract class AbsPerson
         this.age = age;
         this.email = email;
     }
+    public override string ToString()
+    {
+        return $"ID: {id}, Name: {name} , Age:{age}, Email:{email};
+    }
 }
