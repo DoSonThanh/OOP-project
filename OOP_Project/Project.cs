@@ -1,6 +1,6 @@
 using System;
 
-public class Project
+public class Project : AbsProject
 {
     public string ProjectId {get; set;}
     public string ProjectName{get;set;}
