@@ -18,4 +18,7 @@ public abstract class AbsProject
     {
         return $"Project: {ProjectName} (ID: {ProjectId}) - Status: {Status}";
     }
+
+    public abstract void DisplayProjectDetails();
+    public abstract bool CheckProjectStatus();
 }

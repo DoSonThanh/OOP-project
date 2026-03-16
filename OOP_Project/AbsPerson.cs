@@ -16,4 +16,7 @@ public abstract class AbsPerson
     {
         return $"ID: {id}, Name: {name} , Age:{age}, Email:{email};
     }
+
+    public abstract void DoWork();
+    public abstract double CalculateSalary();
 }

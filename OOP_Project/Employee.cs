@@ -18,4 +18,14 @@ public class Employee : AbsPerson
     {
         return $"{base.ToString()}, Role: " + {role} + ", Position: " + {position};
     }
+
+        public override void DoWork()
+    {
+        throw new NotImplementedException(); // Cứ để đây, sau này code sau
+    }
+
+    public override double CalculateSalary()
+    {
+        throw new NotImplementedException(); // Cứ để đây, sau này code sau
+    }
 }
