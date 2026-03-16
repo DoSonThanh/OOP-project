@@ -14,7 +14,7 @@ public abstract class AbsPerson
     }
     public override string ToString()
     {
-        return $"ID: {id}, Name: {name} , Age:{age}, Email:{email};
+        return $"ID: {id}, Name: {name}, Age: {age}, Email: {email}";
     }
 
     public abstract void DoWork();

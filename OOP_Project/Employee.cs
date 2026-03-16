@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 
+// Employee inherits common person attributes from AbsPerson and extends them with job-specific data.
 public class Employee : AbsPerson
 {
     public string position { get; set; }
@@ -16,10 +17,10 @@ public class Employee : AbsPerson
 
     public override string ToString()
     {
-        return $"{base.ToString()}, Role: " + {role} + ", Position: " + {position};
+        return $"{base.ToString()}, Role: {role}, Position: {position}";
     }
 
-        public override void DoWork()
+    public override void DoWork()
     {
         throw new NotImplementedException(); // Cứ để đây, sau này code sau
     }

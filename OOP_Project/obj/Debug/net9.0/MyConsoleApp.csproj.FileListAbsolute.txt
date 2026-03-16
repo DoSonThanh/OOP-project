@@ -13,3 +13,11 @@ G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.
 G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.pdb
 G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
 G:\Đỗ Sơn Thành\Project\OOP_Project\OOP-project\OOP_Project\obj\Debug\net9.0\ref\MyConsoleApp.dll
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.sourcelink.json
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.dll
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\refint\MyConsoleApp.dll
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.pdb
