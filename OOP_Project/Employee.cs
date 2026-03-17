@@ -23,11 +23,11 @@ public class Employee : AbsPerson
 
      public override void DoWork()
      {
-         throw new NotImplementedException(); // Cứ để đây, sau này code sau
+         onsole.WriteLine($"{name} đang lam viec duoc giao.");
      }
 
      public override double CalculateSalary()
      {
-         throw new NotImplementedException(); // Cứ để đây, sau này code sau
+        return 2000.0;
      }
 }

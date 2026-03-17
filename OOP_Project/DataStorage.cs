@@ -3,17 +3,29 @@ using System.Collections.Generic;
 
 public class DataStorage
 {
-    // Kho chứa danh sách các dự án chung của cả hệ thống
-    public List<AbsProject> AllProjects { get; set; }
+    // Thể hiện Aggregation: DataStorage "chứa" một tập hợp các Employee
+    public List<Employee> EmployeeRecords { get; set; }
 
     public DataStorage()
     {
-        AllProjects = new List<AbsProject>();
-        Console.WriteLine("DataStorage đã được tạo. Kho dữ liệu sẵn sàng!");
+        // Khởi tạo cái danh sách (cái tủ rỗng)
+        EmployeeRecords = new List<Employee>();
+        Console.WriteLine("[DataStorage] Kho lưu trữ nhân sự đã sẵn sàng.");
     }
 
-    public void SaveData()
+    // Dependency Injection qua phương thức: Nhận nhân viên từ bên ngoài
+    public void AddEmployee(Employee emp)
     {
-        Console.WriteLine("Dữ liệu đã được lưu trữ an toàn.");
+        EmployeeRecords.Add(emp);
+        Console.WriteLine($"[DataStorage] Đã lưu hồ sơ của nhân viên: {emp.name} vào kho.");
+    }
+
+    public void ShowAllRecords()
+    {
+        Console.WriteLine($"--- KHO DỮ LIỆU ĐANG CÓ {EmployeeRecords.Count} HỒ SƠ ---");
+        foreach (var emp in EmployeeRecords)
+        {
+            Console.WriteLine($"- {emp.id} | {emp.name} | {emp.position}");
+        }
     }
 }
