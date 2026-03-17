@@ -5,7 +5,7 @@ public class Project : AbsProject
     public Employee leader {get; set;}
 
     public EmumProjectType projectType {get; set;}
-    List<Employee> list_employees {get; set;}
+    List<Employee> list_employees {get; set;} 
 
     public Project(string projectId, string projectName) : base(projectId, projectName)
     {
