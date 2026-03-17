@@ -1,4 +1,4 @@
-public class ProjectService : IPorjectService
+public class ProjectService : IProjectService
 {
 
     ProjectService()
