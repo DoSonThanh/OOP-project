@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 
 // Employee inherits common person attributes from AbsPerson and extends them with job-specific data.
+
 public class Employee : AbsPerson
 {
     public string position { get; set; }
