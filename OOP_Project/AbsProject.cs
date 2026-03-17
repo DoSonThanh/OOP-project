@@ -14,10 +14,11 @@ public abstract class AbsProject
     {
         this.projectId = projectId;
         this.projectName = projectName;
+        this.description = string.Empty;
     }
     public override string ToString()
     {
-        return $"Project: {ProjectName} (ID: {ProjectId}) - Status: {Status}";
+        return $"Project: {projectName} (ID: {projectId}) - Status: {status}";
     }
 
     public abstract void DisplayProjectDetails();
