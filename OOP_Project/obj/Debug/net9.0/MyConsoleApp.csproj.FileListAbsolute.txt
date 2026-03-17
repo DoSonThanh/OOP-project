@@ -21,3 +21,10 @@ D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.sourcelink.js
 D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.dll
 D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\refint\MyConsoleApp.dll
 D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.pdb
+D:\opp\grpro\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.exe
+D:\opp\grpro\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.deps.json
+D:\opp\grpro\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+D:\opp\grpro\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.dll
+D:\opp\grpro\OOP-project\OOP_Project\bin\Debug\net9.0\MyConsoleApp.pdb
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+D:\opp\grpro\OOP-project\OOP_Project\obj\Debug\net9.0\ref\MyConsoleApp.dll
