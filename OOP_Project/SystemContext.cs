@@ -1,5 +1,7 @@
 public class SystemContext //singleton
 {
+      Project currentProject { get; set; }
+      List<Project> ProjectList { get; set; }
     protected SystemContext()
     {
         
@@ -15,6 +17,5 @@ public class SystemContext //singleton
         else { return Instance; }
 
     }
-    Project currentProject { get; set; }
-    List<Project> ProjectList { get; set; }
+   
 }
