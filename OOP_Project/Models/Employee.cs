@@ -1,33 +1,44 @@
-using System.Collections.Generic;
-
-// Employee inherits common person attributes from AbsPerson and extends them with job-specific data.
+namespace ProjectManagementSystem.Models;
 
 public class Employee : AbsPerson
 {
-     public string position { get; set; }
-     public virtual string role { get; set; }
-     public List<string> infoList { get; set; }
+    private string _role;
 
-     public Employee(string id, string name, int age, string email, string position) 
-         : base(id, name, age, email)
-     {
-         this.position = position;
-         this.role = "Employee";
-         this.infoList = new List<string>(); 
-     }
+    public Employee()
+        : base()
+    {
+        _role = "Employee";
+    }
 
-     public override string ToString()
-     {
-         return $"{base.ToString()}, Role: {role}, Position: {position}";
-     }
+    public Employee(string id, string name, int age, string email)
+        : base(id, name, age, email)
+    {
+        _role = "Employee";
+    }
 
-     public override void DoWork()
-     {
-         onsole.WriteLine($"{name} đang lam viec duoc giao.");
-     }
+    public virtual string Role
+    {
+        get { return _role; }
+        set
+        {
+            if (string.IsNullOrWhiteSpace(value))
+            {
+                _role = "Employee";
+            }
+            else
+            {
+                _role = value;
+            }
+        }
+    }
 
-     public override double CalculateSalary()
-     {
-        return 2000.0;
-     }
+    public override string GetRole()
+    {
+        return Role;
+    }
+
+    public override string ToString()
+    {
+        return Name + " - " + GetRole();
+    }
 }
